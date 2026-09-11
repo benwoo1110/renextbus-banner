@@ -1,6 +1,7 @@
 {
-    "id": "2",
+    "id": "3",
     "severity": "info",
     "title": "Test Banner Info",
-    "body": "If you see this, means the banner is working! This will be used to important announcements from the developer such backend server Maintenance time. Press x on the top right to close it."
+    "body": "If you see this, means the banner is working! This will be used to important announcements from the developer such backend server Maintenance time. Press x on the top right to close it.",
+    "until": "2026-09-14T00:00:00+08:00"
 }
