@@ -1,7 +1,7 @@
 {
-    "id": "4",
+    "id": "5",
     "severity": "info",
-    "title": "Test Banner Info",
+    "title": "Test Info Banner",
     "body": "If you see this, means the banner is working! This will be used to show important updates from me (author of this app, not univus) in the future. Nothing much for now, but if you are enjoying the app, please consider [leaving a review](https://apps.apple.com/app/id6745768459?action=write-review)!",
     "until": "2026-09-14T00:00:00+08:00"
 }
