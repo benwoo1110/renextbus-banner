@@ -1,7 +1,7 @@
 {
-    "id": "6",
-    "severity": "info",
-    "title": "Test Info Banner",
-    "body": "If you see this, means the banner is working! This will be used for important updates from me (author of this app, not uNivUS) in the future. Nothing much for now, but if you are enjoying the app, please consider [leaving a review](https://apps.apple.com/app/id6745768459?action=write-review)!",
-    "until": "2026-09-15T00:00:00+08:00"
+    "id": "7",
+    "severity": "warning",
+    "title": "Live Activities Unavailable",
+    "body": "Live Activities may be intermittently unavailable between 11am to 2pm due to router upgrading. Apologize for the inconvenience caused!",
+    "until": "2026-09-19T00:14:00+08:00"
 }
